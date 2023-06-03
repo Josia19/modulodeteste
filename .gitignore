@@ -1,0 +1,11 @@
+/.cache
+/.config
+/.upm
+/node_modules
+.replit
+config.json
+moduloteste.zip
+package-lock.json
+package.json
+replit_zip_error_log.txt
+replit.nix
